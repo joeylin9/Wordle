@@ -1,9 +1,9 @@
-# wordle
+# Wordle
 Like the popular game Wordle, try to guess the secret word!
 
 This game is to be copied and pasted into a IDE which can be played in the terminal. The words.txt file must be in the folder with the game.py file as well.
 
-# general description of the game
+# General Description of the Game
 The correct word can be of any length (not just 5 letters).
 The user input will still need to be the same length as the correct word; that is, we will tell the user the length of the secret word.
 After three invalid inputs, the user will lose a guess, and will continue losing a guess for each subsequent invalid input.
